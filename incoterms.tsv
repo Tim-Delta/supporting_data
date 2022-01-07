@@ -1,0 +1,12 @@
+incoterm	name	rules_for	export_formalities	import_formalities
+EXW	Ex Works	ANY MODE OR MODES OF TRANSPORT	buyer	buyer
+FCA	Free Carrier	ANY MODE OR MODES OF TRANSPORT	seller	buyer
+CPT	Carriage Paid To	ANY MODE OR MODES OF TRANSPORT	seller	buyer
+CIP	Carriage and Insurance Paid To	ANY MODE OR MODES OF TRANSPORT	seller	buyer
+DAP	Delivered at Place	ANY MODE OR MODES OF TRANSPORT	seller	buyer
+DPU	Delivered at Place Unloaded	ANY MODE OR MODES OF TRANSPORT	seller	buyer
+DDP	Delivered Duty Paid	ANY MODE OR MODES OF TRANSPORT	seller	seller
+FAS	Free Alongside Ship	SEA AND INLAND WATERWAY TRANSPORT	seller	buyer
+FOB	Free On Board	SEA AND INLAND WATERWAY TRANSPORT	seller	buyer
+CFR	Cost and Freight	SEA AND INLAND WATERWAY TRANSPORT	seller	buyer
+CIF	Cost Insurance and Freight	SEA AND INLAND WATERWAY TRANSPORT	seller	buyer
