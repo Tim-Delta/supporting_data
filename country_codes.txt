@@ -58,7 +58,6 @@ Croatia	Kroatien	HR	HRV	191	ISO 3166-2:HR	Europe	Southern Europe		150	39		TRUE
 Cuba	Kuba	CU	CUB	192	ISO 3166-2:CU	Americas	Latin America and the Caribbean	Caribbean	19	419	29	FALSE
 Curaçao	Curaçao	CW	CUW	531	ISO 3166-2:CW	Americas	Latin America and the Caribbean	Caribbean	19	419	29	FALSE
 Cyprus	Zypern	CY	CYP	196	ISO 3166-2:CY	Asia	Western Asia		142	145		TRUE
-Czechia	Tschechische Republik	CZ	CZE	203	ISO 3166-2:CZ	Europe	Eastern Europe		150	151		TRUE
 Czech Republic	Tschechische Republik	CZ	CZE	203	ISO 3166-2:CZ	Europe	Eastern Europe		150	151		TRUE
 Denmark	Dänemark	DK	DNK	208	ISO 3166-2:DK	Europe	Northern Europe		150	154		TRUE
 Djibouti	Dschibuti	DJ	DJI	262	ISO 3166-2:DJ	Africa	Sub-Saharan Africa	Eastern Africa	2	202	14	FALSE
@@ -236,7 +235,6 @@ Uganda	Uganda	UG	UGA	800	ISO 3166-2:UG	Africa	Sub-Saharan Africa	Eastern Africa	
 Ukraine	Ukraine	UA	UKR	804	ISO 3166-2:UA	Europe	Eastern Europe		150	151		FALSE
 United Arab Emirates	Vereinigte Arabische Emirate	AE	ARE	784	ISO 3166-2:AE	Asia	Western Asia		142	145		FALSE
 United Kingdom of Great Britain and Northern Ireland	Vereinigtes Königreich (UK)	GB	GBR	826	ISO 3166-2:GB	Europe	Northern Europe		150	154		FALSE
-United Kingdom	Vereinigtes Königreich (UK)	GB	GBR	826	ISO 3166-2:GB	Europe	Northern Europe		150	154		FALSE
 United States of America	Vereinigte Staaten von Amerika	US	USA	840	ISO 3166-2:US	Americas	Northern America		19	21		FALSE
 United States Minor Outlying Islands	Kleinere abgelegene Inseln der Vereinigten Staaten	UM	UMI	581	ISO 3166-2:UM	Oceania	Micronesia		9	57		FALSE
 Uruguay	Uruguay	UY	URY	858	ISO 3166-2:UY	Americas	Latin America and the Caribbean	South America	19	419	5	FALSE
