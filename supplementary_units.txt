@@ -1,0 +1,2614 @@
+goods_code	supplementary_unit	description
+01012100	NAR	number of items
+01012910	NAR	number of items
+01012990	NAR	number of items
+01013000	NAR	number of items
+01019000	NAR	number of items
+01022110	NAR	number of items
+01022130	NAR	number of items
+01022190	NAR	number of items
+01022905	NAR	number of items
+01022910	NAR	number of items
+01022921	NAR	number of items
+01022929	NAR	number of items
+01022941	NAR	number of items
+01022949	NAR	number of items
+01022951	NAR	number of items
+01022959	NAR	number of items
+01022961	NAR	number of items
+01022969	NAR	number of items
+01022991	NAR	number of items
+01022999	NAR	number of items
+01023100	NAR	number of items
+01023910	NAR	number of items
+01023990	NAR	number of items
+01029020	NAR	number of items
+01029091	NAR	number of items
+01029099	NAR	number of items
+01031000	NAR	number of items
+01039110	NAR	number of items
+01039190	NAR	number of items
+01039211	NAR	number of items
+01039219	NAR	number of items
+01039290	NAR	number of items
+01041010	NAR	number of items
+01041030	NAR	number of items
+01041080	NAR	number of items
+01042010	NAR	number of items
+01042090	NAR	number of items
+01051111	NAR	number of items
+01051119	NAR	number of items
+01051191	NAR	number of items
+01051199	NAR	number of items
+01051200	NAR	number of items
+01051300	NAR	number of items
+01051400	NAR	number of items
+01051500	NAR	number of items
+01059400	NAR	number of items
+01059910	NAR	number of items
+01059920	NAR	number of items
+01059930	NAR	number of items
+01059950	NAR	number of items
+01061100	NAR	number of items
+01061200	NAR	number of items
+01061300	NAR	number of items
+01061410	NAR	number of items
+01062000	NAR	number of items
+01063100	NAR	number of items
+01063200	NAR	number of items
+01063300	NAR	number of items
+01063910	NAR	number of items
+04071100	NAR	number of items
+04071911	NAR	number of items
+04071919	NAR	number of items
+04071990	NAR	number of items
+04072100	MIL	1 000 items
+04072910	MIL	1 000 items
+04072990	NAR	number of items
+04079010	MIL	1 000 items
+04079090	NAR	number of items
+05111000	NAR	number of items
+06011010	NAR	number of items
+06011020	NAR	number of items
+06011030	NAR	number of items
+06011040	NAR	number of items
+06011090	NAR	number of items
+06022020	NAR	number of items
+06022030	NAR	number of items
+06022080	NAR	number of items
+06023000	NAR	number of items
+06024000	NAR	number of items
+06029041	NAR	number of items
+06029045	NAR	number of items
+06029046	NAR	number of items
+06029047	NAR	number of items
+06029048	NAR	number of items
+06029070	NAR	number of items
+06029091	NAR	number of items
+06029099	NAR	number of items
+06031100	NAR	number of items
+06031200	NAR	number of items
+06031300	NAR	number of items
+06031400	NAR	number of items
+06031500	NAR	number of items
+06031910	NAR	number of items
+06031920	NAR	number of items
+06031970	NAR	number of items
+06042020	NAR	number of items
+07115100	KGE	kilogram drained net weight
+20011000	KGE	kilogram drained net weight
+20031020	KGE	kilogram drained net weight
+20031030	KGE	kilogram drained net weight
+20057000	KGE	kilogram drained net weight
+21039030	LPA	litre pure (100 %) alcohol
+21069020	LPA	litre pure (100 %) alcohol
+22011011	LTR	litre
+22011019	LTR	litre
+22011090	LTR	litre
+22021000	LTR	litre
+22029100	LTR	litre
+22029911	LTR	litre
+22029915	LTR	litre
+22029919	LTR	litre
+22029991	LTR	litre
+22029995	LTR	litre
+22029999	LTR	litre
+22030001	LTR	litre
+22030009	LTR	litre
+22030010	LTR	litre
+22041011	LTR	litre
+22041013	LTR	litre
+22041015	LTR	litre
+22041091	LTR	litre
+22041093	LTR	litre
+22041094	LTR	litre
+22041096	LTR	litre
+22041098	LTR	litre
+22042106	LTR	litre
+22042107	LTR	litre
+22042108	LTR	litre
+22042109	LTR	litre
+22042111	LTR	litre
+22042112	LTR	litre
+22042113	LTR	litre
+22042117	LTR	litre
+22042118	LTR	litre
+22042119	LTR	litre
+22042122	LTR	litre
+22042123	LTR	litre
+22042124	LTR	litre
+22042126	LTR	litre
+22042127	LTR	litre
+22042128	LTR	litre
+22042131	LTR	litre
+22042132	LTR	litre
+22042134	LTR	litre
+22042136	LTR	litre
+22042137	LTR	litre
+22042138	LTR	litre
+22042142	LTR	litre
+22042143	LTR	litre
+22042144	LTR	litre
+22042146	LTR	litre
+22042147	LTR	litre
+22042148	LTR	litre
+22042161	LTR	litre
+22042162	LTR	litre
+22042166	LTR	litre
+22042167	LTR	litre
+22042168	LTR	litre
+22042169	LTR	litre
+22042171	LTR	litre
+22042174	LTR	litre
+22042176	LTR	litre
+22042177	LTR	litre
+22042178	LTR	litre
+22042179	LTR	litre
+22042180	LTR	litre
+22042181	LTR	litre
+22042182	LTR	litre
+22042183	LTR	litre
+22042184	LTR	litre
+22042185	LTR	litre
+22042186	LTR	litre
+22042187	LTR	litre
+22042188	LTR	litre
+22042189	LTR	litre
+22042190	LTR	litre
+22042191	LTR	litre
+22042193	LTR	litre
+22042194	LTR	litre
+22042195	LTR	litre
+22042196	LTR	litre
+22042197	LTR	litre
+22042198	LTR	litre
+22042210	LTR	litre
+22042222	LTR	litre
+22042223	LTR	litre
+22042224	LTR	litre
+22042226	LTR	litre
+22042227	LTR	litre
+22042228	LTR	litre
+22042232	LTR	litre
+22042233	LTR	litre
+22042238	LTR	litre
+22042278	LTR	litre
+22042279	LTR	litre
+22042280	LTR	litre
+22042281	LTR	litre
+22042282	LTR	litre
+22042283	LTR	litre
+22042284	LTR	litre
+22042285	LTR	litre
+22042286	LTR	litre
+22042288	LTR	litre
+22042290	LTR	litre
+22042291	LTR	litre
+22042293	LTR	litre
+22042294	LTR	litre
+22042295	LTR	litre
+22042296	LTR	litre
+22042297	LTR	litre
+22042298	LTR	litre
+22042910	LTR	litre
+22042922	LTR	litre
+22042923	LTR	litre
+22042924	LTR	litre
+22042926	LTR	litre
+22042927	LTR	litre
+22042928	LTR	litre
+22042932	LTR	litre
+22042938	LTR	litre
+22042978	LTR	litre
+22042979	LTR	litre
+22042980	LTR	litre
+22042981	LTR	litre
+22042982	LTR	litre
+22042983	LTR	litre
+22042984	LTR	litre
+22042985	LTR	litre
+22042986	LTR	litre
+22042988	LTR	litre
+22042990	LTR	litre
+22042991	LTR	litre
+22042993	LTR	litre
+22042994	LTR	litre
+22042995	LTR	litre
+22042996	LTR	litre
+22042997	LTR	litre
+22042998	LTR	litre
+22043010	LTR	litre
+22043092	LTR	litre
+22043094	LTR	litre
+22043096	LTR	litre
+22043098	LTR	litre
+22051010	LTR	litre
+22051090	LTR	litre
+22059010	LTR	litre
+22059090	LTR	litre
+22060010	LTR	litre
+22060031	LTR	litre
+22060039	LTR	litre
+22060051	LTR	litre
+22060059	LTR	litre
+22060081	LTR	litre
+22060089	LTR	litre
+22071000	LTR	litre
+22072000	LTR	litre
+22082012	LPA	litre pure (100 %) alcohol
+22082014	LPA	litre pure (100 %) alcohol
+22082016	LPA	litre pure (100 %) alcohol
+22082018	LPA	litre pure (100 %) alcohol
+22082019	LPA	litre pure (100 %) alcohol
+22082026	LPA	litre pure (100 %) alcohol
+22082028	LPA	litre pure (100 %) alcohol
+22082062	LPA	litre pure (100 %) alcohol
+22082066	LPA	litre pure (100 %) alcohol
+22082069	LPA	litre pure (100 %) alcohol
+22082086	LPA	litre pure (100 %) alcohol
+22082088	LPA	litre pure (100 %) alcohol
+22083011	LPA	litre pure (100 %) alcohol
+22083019	LPA	litre pure (100 %) alcohol
+22083030	LPA	litre pure (100 %) alcohol
+22083041	LPA	litre pure (100 %) alcohol
+22083049	LPA	litre pure (100 %) alcohol
+22083061	LPA	litre pure (100 %) alcohol
+22083069	LPA	litre pure (100 %) alcohol
+22083071	LPA	litre pure (100 %) alcohol
+22083079	LPA	litre pure (100 %) alcohol
+22083082	LPA	litre pure (100 %) alcohol
+22083088	LPA	litre pure (100 %) alcohol
+22084011	LPA	litre pure (100 %) alcohol
+22084031	LPA	litre pure (100 %) alcohol
+22084039	LPA	litre pure (100 %) alcohol
+22084051	LPA	litre pure (100 %) alcohol
+22084091	LPA	litre pure (100 %) alcohol
+22084099	LPA	litre pure (100 %) alcohol
+22085011	LPA	litre pure (100 %) alcohol
+22085019	LPA	litre pure (100 %) alcohol
+22085091	LPA	litre pure (100 %) alcohol
+22085099	LPA	litre pure (100 %) alcohol
+22086011	LPA	litre pure (100 %) alcohol
+22086019	LPA	litre pure (100 %) alcohol
+22086091	LPA	litre pure (100 %) alcohol
+22086099	LPA	litre pure (100 %) alcohol
+22087010	LPA	litre pure (100 %) alcohol
+22087090	LPA	litre pure (100 %) alcohol
+22089011	LPA	litre pure (100 %) alcohol
+22089019	LPA	litre pure (100 %) alcohol
+22089033	LPA	litre pure (100 %) alcohol
+22089038	LPA	litre pure (100 %) alcohol
+22089041	LPA	litre pure (100 %) alcohol
+22089045	LPA	litre pure (100 %) alcohol
+22089048	LPA	litre pure (100 %) alcohol
+22089054	LPA	litre pure (100 %) alcohol
+22089056	LPA	litre pure (100 %) alcohol
+22089069	LPA	litre pure (100 %) alcohol
+22089071	LPA	litre pure (100 %) alcohol
+22089075	LPA	litre pure (100 %) alcohol
+22089077	LPA	litre pure (100 %) alcohol
+22089078	LPA	litre pure (100 %) alcohol
+22089091	LPA	litre pure (100 %) alcohol
+22089099	LPA	litre pure (100 %) alcohol
+22090011	LTR	litre
+22090019	LTR	litre
+22090091	LTR	litre
+22090099	LTR	litre
+24021000	MIL	1 000 items
+24022010	CEN	100 items
+24022090	MIL	1 000 items
+27050000	MTC	1 000 cubic meters
+27101241	MTQ	cubic meter
+27101245	MTQ	cubic meter
+27101249	MTQ	cubic meter
+27101250	MTQ	cubic meter
+27111100	TJO	terajoule (gross caloriifc value)
+27112100	TJO	terajoule (gross caloriifc value)
+27160000	MWH	1 000 kilowatt hours
+28041000	MTQ	cubic meter
+28042100	MTQ	cubic meter
+28042910	MTQ	cubic meter
+28042990	MTQ	cubic meter
+28043000	MTQ	cubic meter
+28044000	MTQ	cubic meter
+28091000	KPP	kilogram of diphosphorus pentaoxide
+28092000	KPP	kilogram of diphosphorus pentaoxide
+28151200	KSH	kilogram of sodium hydroxide (caustic soda)
+28152000	KPH	kilogram of potassium hydroxide (caustic potash)
+28433000	GRM	gram
+28439090	GRM	gram
+28441010	KUR	kilogram of uranium
+28441030	KUR	kilogram of uranium
+28441050	KUR	kilogram of uranium
+28441090	KUR	kilogram of uranium
+28442025	GFI	gram of fissile isotopes
+28442035	GFI	gram of fissile isotopes
+28442051	GFI	gram of fissile isotopes
+28442059	GFI	gram of fissile isotopes
+28442099	GFI	gram of fissile isotopes
+28445000	GFI	gram of fissile isotopes
+28470000	KNS	kilogram of hydrogen peroxide
+29211100	KMA	kilogram of methylamines
+29371100	GRM	gram
+29371200	GRM	gram
+29371900	GRM	gram
+29372100	GRM	gram
+29372200	GRM	gram
+29372300	GRM	gram
+29372900	GRM	gram
+29375000	GRM	gram
+29379000	GRM	gram
+30022010	NAR	number of items
+31021010	KNI	kilogram of nitrogen
+31021090	KNI	kilogram of nitrogen
+31022100	KNI	kilogram of nitrogen
+31022900	KNI	kilogram of nitrogen
+31023010	KNI	kilogram of nitrogen
+31023090	KNI	kilogram of nitrogen
+31024010	KNI	kilogram of nitrogen
+31024090	KNI	kilogram of nitrogen
+31025000	KNI	kilogram of nitrogen
+31026000	KNI	kilogram of nitrogen
+31028000	KNI	kilogram of nitrogen
+31029000	KNI	kilogram of nitrogen
+31031100	KPP	kilogram of diphosphorus pentaoxide
+31031900	KPP	kilogram of diphosphorus pentaoxide
+31039000	KPP	kilogram of diphosphorus pentaoxide
+31042010	KPO	kilogram of potassium oxide
+31042050	KPO	kilogram of potassium oxide
+31042090	KPO	kilogram of potassium oxide
+31043000	KPO	kilogram of potassium oxide
+31049000	KPO	kilogram of potassium oxide
+37011000	MTK	square meter
+37012000	NAR	number of items
+37013000	MTK	square meter
+37021000	MTK	square meter
+37023191	MTR	meter
+37023197	MTR	meter
+37024100	MTK	square meter
+37024200	MTK	square meter
+37024300	MTK	square meter
+37024400	MTK	square meter
+37025300	NAR	number of items
+37025400	NAR	number of items
+37025500	MTR	meter
+37029690	NAR	number of items
+37029790	MTR	meter
+37061020	MTR	meter
+37061099	MTR	meter
+37069052	MTR	meter
+37069091	MTR	meter
+37069099	MTR	meter
+39181010	MTK	square meter
+39181090	MTK	square meter
+39189000	MTK	square meter
+39233010	NAR	number of items
+39233090	NAR	number of items
+39252000	NAR	number of items
+39269060	NAR	number of items
+40082110	MTK	square meter
+40111000	NAR	number of items
+40112010	NAR	number of items
+40112090	NAR	number of items
+40113000	NAR	number of items
+40114000	NAR	number of items
+40115000	NAR	number of items
+40117000	NAR	number of items
+40118000	NAR	number of items
+40119000	NAR	number of items
+40121100	NAR	number of items
+40121200	NAR	number of items
+40121300	NAR	number of items
+40121900	NAR	number of items
+40122000	NAR	number of items
+40131000	NAR	number of items
+40132000	NAR	number of items
+40139000	NAR	number of items
+40151100	NPR	number of pairs
+40151900	NPR	number of pairs
+41012010	NAR	number of items
+41012030	NAR	number of items
+41012050	NAR	number of items
+41012080	NAR	number of items
+41015010	NAR	number of items
+41015030	NAR	number of items
+41015050	NAR	number of items
+41015090	NAR	number of items
+41021010	NAR	number of items
+41021090	NAR	number of items
+41022100	NAR	number of items
+41022900	NAR	number of items
+41032000	NAR	number of items
+41033000	NAR	number of items
+41041110	NAR	number of items
+41041151	NAR	number of items
+41041159	NAR	number of items
+41041190	NAR	number of items
+41041910	NAR	number of items
+41041951	NAR	number of items
+41041959	NAR	number of items
+41041990	NAR	number of items
+41044111	NAR	number of items
+41044119	NAR	number of items
+41044151	NAR	number of items
+41044159	NAR	number of items
+41044190	NAR	number of items
+41044911	NAR	number of items
+41044919	NAR	number of items
+41044951	NAR	number of items
+41044959	NAR	number of items
+41044990	NAR	number of items
+41051000	NAR	number of items
+41053010	NAR	number of items
+41053090	NAR	number of items
+41062100	NAR	number of items
+41062210	NAR	number of items
+41062290	NAR	number of items
+41063100	NAR	number of items
+41063200	NAR	number of items
+41064010	NAR	number of items
+41064090	NAR	number of items
+41069200	NAR	number of items
+41071111	MTK	square meter
+41071119	MTK	square meter
+41071190	MTK	square meter
+41071211	MTK	square meter
+41071219	MTK	square meter
+41071291	MTK	square meter
+41071299	MTK	square meter
+41071910	MTK	square meter
+41071990	MTK	square meter
+41079190	MTK	square meter
+41079210	MTK	square meter
+41079290	MTK	square meter
+41079910	MTK	square meter
+41079990	MTK	square meter
+41120000	MTK	square meter
+41131000	MTK	square meter
+41132000	MTK	square meter
+41133000	MTK	square meter
+41139000	MTK	square meter
+41141010	NAR	number of items
+41141090	NAR	number of items
+41142000	MTK	square meter
+42021110	NAR	number of items
+42021211	NAR	number of items
+42021291	NAR	number of items
+42022100	NAR	number of items
+42022210	NAR	number of items
+42022290	NAR	number of items
+42022900	NAR	number of items
+42032100	NPR	number of pairs
+42032910	NPR	number of pairs
+42032990	NPR	number of pairs
+43011000	NAR	number of items
+43013000	NAR	number of items
+43016000	NAR	number of items
+43021100	NAR	number of items
+43021915	NAR	number of items
+43021935	NAR	number of items
+43021941	NAR	number of items
+43021949	NAR	number of items
+43021975	NAR	number of items
+43021980	NAR	number of items
+43023025	NAR	number of items
+43023051	NAR	number of items
+43023055	NAR	number of items
+44031100	MTQ	cubic meter
+44031200	MTQ	cubic meter
+44032110	MTQ	cubic meter
+44032190	MTQ	cubic meter
+44032200	MTQ	cubic meter
+44032310	MTQ	cubic meter
+44032390	MTQ	cubic meter
+44032400	MTQ	cubic meter
+44032510	MTQ	cubic meter
+44032590	MTQ	cubic meter
+44032600	MTQ	cubic meter
+44034100	MTQ	cubic meter
+44034910	MTQ	cubic meter
+44034935	MTQ	cubic meter
+44034985	MTQ	cubic meter
+44039100	MTQ	cubic meter
+44039300	MTQ	cubic meter
+44039400	MTQ	cubic meter
+44039510	MTQ	cubic meter
+44039590	MTQ	cubic meter
+44039600	MTQ	cubic meter
+44039700	MTQ	cubic meter
+44039800	MTQ	cubic meter
+44039900	MTQ	cubic meter
+44061100	MTQ	cubic meter
+44061200	MTQ	cubic meter
+44069100	MTQ	cubic meter
+44069200	MTQ	cubic meter
+44071110	MTQ	cubic meter
+44071120	MTQ	cubic meter
+44071190	MTQ	cubic meter
+44071210	MTQ	cubic meter
+44071220	MTQ	cubic meter
+44071290	MTQ	cubic meter
+44071910	MTQ	cubic meter
+44071920	MTQ	cubic meter
+44071990	MTQ	cubic meter
+44072110	MTQ	cubic meter
+44072191	MTQ	cubic meter
+44072199	MTQ	cubic meter
+44072210	MTQ	cubic meter
+44072291	MTQ	cubic meter
+44072299	MTQ	cubic meter
+44072510	MTQ	cubic meter
+44072530	MTQ	cubic meter
+44072550	MTQ	cubic meter
+44072590	MTQ	cubic meter
+44072610	MTQ	cubic meter
+44072630	MTQ	cubic meter
+44072650	MTQ	cubic meter
+44072690	MTQ	cubic meter
+44072710	MTQ	cubic meter
+44072791	MTQ	cubic meter
+44072799	MTQ	cubic meter
+44072810	MTQ	cubic meter
+44072891	MTQ	cubic meter
+44072899	MTQ	cubic meter
+44072915	MTQ	cubic meter
+44072920	MTQ	cubic meter
+44072983	MTQ	cubic meter
+44072985	MTQ	cubic meter
+44072995	MTQ	cubic meter
+44072996	MTQ	cubic meter
+44072997	MTQ	cubic meter
+44072998	MTQ	cubic meter
+44079115	MTQ	cubic meter
+44079131	MTK	square meter
+44079139	MTQ	cubic meter
+44079190	MTQ	cubic meter
+44079200	MTQ	cubic meter
+44079310	MTQ	cubic meter
+44079391	MTQ	cubic meter
+44079399	MTQ	cubic meter
+44079410	MTQ	cubic meter
+44079491	MTQ	cubic meter
+44079499	MTQ	cubic meter
+44079510	MTQ	cubic meter
+44079591	MTQ	cubic meter
+44079599	MTQ	cubic meter
+44079610	MTQ	cubic meter
+44079691	MTQ	cubic meter
+44079699	MTQ	cubic meter
+44079710	MTQ	cubic meter
+44079791	MTQ	cubic meter
+44079799	MTQ	cubic meter
+44079927	MTQ	cubic meter
+44079940	MTQ	cubic meter
+44079990	MTQ	cubic meter
+44081015	MTQ	cubic meter
+44081091	MTQ	cubic meter
+44081098	MTQ	cubic meter
+44083111	MTQ	cubic meter
+44083121	MTQ	cubic meter
+44083125	MTQ	cubic meter
+44083130	MTQ	cubic meter
+44083915	MTQ	cubic meter
+44083921	MTQ	cubic meter
+44083930	MTQ	cubic meter
+44083955	MTQ	cubic meter
+44083970	MTQ	cubic meter
+44083985	MTQ	cubic meter
+44083995	MTQ	cubic meter
+44089015	MTQ	cubic meter
+44089035	MTQ	cubic meter
+44089085	MTQ	cubic meter
+44089095	MTQ	cubic meter
+44091011	MTR	meter
+44092910	MTR	meter
+44092991	MTK	square meter
+44101110	MTQ	cubic meter
+44101130	MTQ	cubic meter
+44101150	MTQ	cubic meter
+44101190	MTQ	cubic meter
+44101210	MTQ	cubic meter
+44101290	MTQ	cubic meter
+44101900	MTQ	cubic meter
+44109000	MTQ	cubic meter
+44111210	MTQ	cubic meter
+44111290	MTQ	cubic meter
+44111310	MTQ	cubic meter
+44111390	MTQ	cubic meter
+44111410	MTQ	cubic meter
+44111490	MTQ	cubic meter
+44119210	MTQ	cubic meter
+44119290	MTQ	cubic meter
+44119310	MTQ	cubic meter
+44119390	MTQ	cubic meter
+44119410	MTQ	cubic meter
+44119490	MTQ	cubic meter
+44121000	MTQ	cubic meter
+44123110	MTQ	cubic meter
+44123190	MTQ	cubic meter
+44123300	MTQ	cubic meter
+44123400	MTQ	cubic meter
+44123900	MTQ	cubic meter
+44129410	MTQ	cubic meter
+44129490	MTQ	cubic meter
+44129930	MTQ	cubic meter
+44129940	MTQ	cubic meter
+44129950	MTQ	cubic meter
+44129985	MTQ	cubic meter
+44130000	MTQ	cubic meter
+44152020	NAR	number of items
+44181010	NAR	number of items
+44181050	NAR	number of items
+44181090	NAR	number of items
+44182010	NAR	number of items
+44182050	NAR	number of items
+44182080	NAR	number of items
+44187310	MTK	square meter
+44187390	MTK	square meter
+44187400	MTK	square meter
+44187500	MTK	square meter
+44187900	MTK	square meter
+44209010	MTQ	cubic meter
+44211000	NAR	number of items
+44219991	NAR	number of items
+47010010	KSD	kilogram of substance 90 % dry
+47010090	KSD	kilogram of substance 90 % dry
+47020000	KSD	kilogram of substance 90 % dry
+47031100	KSD	kilogram of substance 90 % dry
+47031900	KSD	kilogram of substance 90 % dry
+47032100	KSD	kilogram of substance 90 % dry
+47032900	KSD	kilogram of substance 90 % dry
+47041100	KSD	kilogram of substance 90 % dry
+47041900	KSD	kilogram of substance 90 % dry
+47042100	KSD	kilogram of substance 90 % dry
+47042900	KSD	kilogram of substance 90 % dry
+47050000	KSD	kilogram of substance 90 % dry
+47062000	KSD	kilogram of substance 90 % dry
+47063000	KSD	kilogram of substance 90 % dry
+47069100	KSD	kilogram of substance 90 % dry
+47069200	KSD	kilogram of substance 90 % dry
+47069300	KSD	kilogram of substance 90 % dry
+50071000	MTK	square meter
+50072011	MTK	square meter
+50072019	MTK	square meter
+50072021	MTK	square meter
+50072031	MTK	square meter
+50072039	MTK	square meter
+50072041	MTK	square meter
+50072051	MTK	square meter
+50072059	MTK	square meter
+50072061	MTK	square meter
+50072069	MTK	square meter
+50072071	MTK	square meter
+50079010	MTK	square meter
+50079030	MTK	square meter
+50079050	MTK	square meter
+50079090	MTK	square meter
+51111100	MTK	square meter
+51111900	MTK	square meter
+51112000	MTK	square meter
+51113010	MTK	square meter
+51113080	MTK	square meter
+51119010	MTK	square meter
+51119091	MTK	square meter
+51119098	MTK	square meter
+51121100	MTK	square meter
+51121900	MTK	square meter
+51122000	MTK	square meter
+51123010	MTK	square meter
+51123080	MTK	square meter
+51129010	MTK	square meter
+51129091	MTK	square meter
+51129098	MTK	square meter
+51130000	MTK	square meter
+52081110	MTK	square meter
+52081190	MTK	square meter
+52081216	MTK	square meter
+52081219	MTK	square meter
+52081296	MTK	square meter
+52081299	MTK	square meter
+52081300	MTK	square meter
+52081900	MTK	square meter
+52082110	MTK	square meter
+52082190	MTK	square meter
+52082216	MTK	square meter
+52082219	MTK	square meter
+52082296	MTK	square meter
+52082299	MTK	square meter
+52082300	MTK	square meter
+52082900	MTK	square meter
+52083100	MTK	square meter
+52083216	MTK	square meter
+52083219	MTK	square meter
+52083296	MTK	square meter
+52083299	MTK	square meter
+52083300	MTK	square meter
+52083900	MTK	square meter
+52084100	MTK	square meter
+52084200	MTK	square meter
+52084300	MTK	square meter
+52084900	MTK	square meter
+52085100	MTK	square meter
+52085200	MTK	square meter
+52085910	MTK	square meter
+52085990	MTK	square meter
+52091100	MTK	square meter
+52091200	MTK	square meter
+52091900	MTK	square meter
+52092100	MTK	square meter
+52092200	MTK	square meter
+52092900	MTK	square meter
+52093100	MTK	square meter
+52093200	MTK	square meter
+52093900	MTK	square meter
+52094100	MTK	square meter
+52094200	MTK	square meter
+52094300	MTK	square meter
+52094900	MTK	square meter
+52095100	MTK	square meter
+52095200	MTK	square meter
+52095900	MTK	square meter
+52101100	MTK	square meter
+52101900	MTK	square meter
+52102100	MTK	square meter
+52102900	MTK	square meter
+52103100	MTK	square meter
+52103200	MTK	square meter
+52103900	MTK	square meter
+52104100	MTK	square meter
+52104900	MTK	square meter
+52105100	MTK	square meter
+52105900	MTK	square meter
+52111100	MTK	square meter
+52111200	MTK	square meter
+52111900	MTK	square meter
+52112000	MTK	square meter
+52113100	MTK	square meter
+52113200	MTK	square meter
+52113900	MTK	square meter
+52114100	MTK	square meter
+52114200	MTK	square meter
+52114300	MTK	square meter
+52114910	MTK	square meter
+52114990	MTK	square meter
+52115100	MTK	square meter
+52115200	MTK	square meter
+52115900	MTK	square meter
+52121110	MTK	square meter
+52121190	MTK	square meter
+52121210	MTK	square meter
+52121290	MTK	square meter
+52121310	MTK	square meter
+52121390	MTK	square meter
+52121410	MTK	square meter
+52121490	MTK	square meter
+52121510	MTK	square meter
+52121590	MTK	square meter
+52122110	MTK	square meter
+52122190	MTK	square meter
+52122210	MTK	square meter
+52122290	MTK	square meter
+52122310	MTK	square meter
+52122390	MTK	square meter
+52122410	MTK	square meter
+52122490	MTK	square meter
+52122510	MTK	square meter
+52122590	MTK	square meter
+53091110	MTK	square meter
+53091190	MTK	square meter
+53091900	MTK	square meter
+53092100	MTK	square meter
+53092900	MTK	square meter
+53101010	MTK	square meter
+53101090	MTK	square meter
+53109000	MTK	square meter
+53110010	MTK	square meter
+53110090	MTK	square meter
+54071000	MTK	square meter
+54072011	MTK	square meter
+54072019	MTK	square meter
+54072090	MTK	square meter
+54073000	MTK	square meter
+54074100	MTK	square meter
+54074200	MTK	square meter
+54074300	MTK	square meter
+54074400	MTK	square meter
+54075100	MTK	square meter
+54075200	MTK	square meter
+54075300	MTK	square meter
+54075400	MTK	square meter
+54076110	MTK	square meter
+54076130	MTK	square meter
+54076150	MTK	square meter
+54076190	MTK	square meter
+54076910	MTK	square meter
+54076990	MTK	square meter
+54077100	MTK	square meter
+54077200	MTK	square meter
+54077300	MTK	square meter
+54077400	MTK	square meter
+54078100	MTK	square meter
+54078200	MTK	square meter
+54078300	MTK	square meter
+54078400	MTK	square meter
+54079100	MTK	square meter
+54079200	MTK	square meter
+54079300	MTK	square meter
+54079400	MTK	square meter
+54081000	MTK	square meter
+54082100	MTK	square meter
+54082210	MTK	square meter
+54082290	MTK	square meter
+54082300	MTK	square meter
+54082400	MTK	square meter
+54083100	MTK	square meter
+54083200	MTK	square meter
+54083300	MTK	square meter
+54083400	MTK	square meter
+55121100	MTK	square meter
+55121910	MTK	square meter
+55121990	MTK	square meter
+55122100	MTK	square meter
+55122910	MTK	square meter
+55122990	MTK	square meter
+55129100	MTK	square meter
+55129910	MTK	square meter
+55129990	MTK	square meter
+55131120	MTK	square meter
+55131190	MTK	square meter
+55131200	MTK	square meter
+55131300	MTK	square meter
+55131900	MTK	square meter
+55132100	MTK	square meter
+55132310	MTK	square meter
+55132390	MTK	square meter
+55132900	MTK	square meter
+55133100	MTK	square meter
+55133900	MTK	square meter
+55134100	MTK	square meter
+55134900	MTK	square meter
+55141100	MTK	square meter
+55141200	MTK	square meter
+55141910	MTK	square meter
+55141990	MTK	square meter
+55142100	MTK	square meter
+55142200	MTK	square meter
+55142300	MTK	square meter
+55142900	MTK	square meter
+55143010	MTK	square meter
+55143030	MTK	square meter
+55143050	MTK	square meter
+55143090	MTK	square meter
+55144100	MTK	square meter
+55144200	MTK	square meter
+55144300	MTK	square meter
+55144900	MTK	square meter
+55151110	MTK	square meter
+55151130	MTK	square meter
+55151190	MTK	square meter
+55151210	MTK	square meter
+55151230	MTK	square meter
+55151290	MTK	square meter
+55151311	MTK	square meter
+55151319	MTK	square meter
+55151391	MTK	square meter
+55151399	MTK	square meter
+55151910	MTK	square meter
+55151930	MTK	square meter
+55151990	MTK	square meter
+55152110	MTK	square meter
+55152130	MTK	square meter
+55152190	MTK	square meter
+55152211	MTK	square meter
+55152219	MTK	square meter
+55152291	MTK	square meter
+55152299	MTK	square meter
+55152900	MTK	square meter
+55159110	MTK	square meter
+55159130	MTK	square meter
+55159190	MTK	square meter
+55159920	MTK	square meter
+55159940	MTK	square meter
+55159980	MTK	square meter
+55161100	MTK	square meter
+55161200	MTK	square meter
+55161300	MTK	square meter
+55161400	MTK	square meter
+55162100	MTK	square meter
+55162200	MTK	square meter
+55162310	MTK	square meter
+55162390	MTK	square meter
+55162400	MTK	square meter
+55163100	MTK	square meter
+55163200	MTK	square meter
+55163300	MTK	square meter
+55163400	MTK	square meter
+55164100	MTK	square meter
+55164200	MTK	square meter
+55164300	MTK	square meter
+55164400	MTK	square meter
+55169100	MTK	square meter
+55169200	MTK	square meter
+55169300	MTK	square meter
+55169400	MTK	square meter
+57011010	MTK	square meter
+57011090	MTK	square meter
+57019010	MTK	square meter
+57019090	MTK	square meter
+57021000	MTK	square meter
+57022000	MTK	square meter
+57023110	MTK	square meter
+57023180	MTK	square meter
+57023200	MTK	square meter
+57023900	MTK	square meter
+57024110	MTK	square meter
+57024190	MTK	square meter
+57024200	MTK	square meter
+57024900	MTK	square meter
+57025010	MTK	square meter
+57025031	MTK	square meter
+57025039	MTK	square meter
+57025090	MTK	square meter
+57029100	MTK	square meter
+57029210	MTK	square meter
+57029290	MTK	square meter
+57029900	MTK	square meter
+57031000	MTK	square meter
+57032012	MTK	square meter
+57032018	MTK	square meter
+57032092	MTK	square meter
+57032098	MTK	square meter
+57033012	MTK	square meter
+57033018	MTK	square meter
+57033082	MTK	square meter
+57033088	MTK	square meter
+57039020	MTK	square meter
+57039080	MTK	square meter
+57041000	MTK	square meter
+57042000	MTK	square meter
+57049000	MTK	square meter
+57050030	MTK	square meter
+57050080	MTK	square meter
+58011000	MTK	square meter
+58012100	MTK	square meter
+58012200	MTK	square meter
+58012300	MTK	square meter
+58012600	MTK	square meter
+58012700	MTK	square meter
+58013100	MTK	square meter
+58013200	MTK	square meter
+58013300	MTK	square meter
+58013600	MTK	square meter
+58013700	MTK	square meter
+58019010	MTK	square meter
+58019090	MTK	square meter
+58021100	MTK	square meter
+58021900	MTK	square meter
+58022000	MTK	square meter
+58023000	MTK	square meter
+58030010	MTK	square meter
+58030030	MTK	square meter
+58030090	MTK	square meter
+58110000	MTK	square meter
+59011000	MTK	square meter
+59019000	MTK	square meter
+59021010	MTK	square meter
+59021090	MTK	square meter
+59022010	MTK	square meter
+59022090	MTK	square meter
+59029010	MTK	square meter
+59029090	MTK	square meter
+59031010	MTK	square meter
+59031090	MTK	square meter
+59032010	MTK	square meter
+59032090	MTK	square meter
+59039010	MTK	square meter
+59039091	MTK	square meter
+59039099	MTK	square meter
+59041000	MTK	square meter
+59049000	MTK	square meter
+59070000	MTK	square meter
+59113111	MTK	square meter
+59113211	MTK	square meter
+59113219	MTK	square meter
+61012010	NAR	number of items
+61012090	NAR	number of items
+61013010	NAR	number of items
+61013090	NAR	number of items
+61019020	NAR	number of items
+61019080	NAR	number of items
+61021010	NAR	number of items
+61021090	NAR	number of items
+61022010	NAR	number of items
+61022090	NAR	number of items
+61023010	NAR	number of items
+61023090	NAR	number of items
+61029010	NAR	number of items
+61029090	NAR	number of items
+61031010	NAR	number of items
+61031090	NAR	number of items
+61032200	NAR	number of items
+61032300	NAR	number of items
+61032900	NAR	number of items
+61033100	NAR	number of items
+61033200	NAR	number of items
+61033300	NAR	number of items
+61033900	NAR	number of items
+61034100	NAR	number of items
+61034200	NAR	number of items
+61034300	NAR	number of items
+61034900	NAR	number of items
+61041300	NAR	number of items
+61041920	NAR	number of items
+61041990	NAR	number of items
+61042200	NAR	number of items
+61042300	NAR	number of items
+61042910	NAR	number of items
+61042990	NAR	number of items
+61043100	NAR	number of items
+61043200	NAR	number of items
+61043300	NAR	number of items
+61043900	NAR	number of items
+61044100	NAR	number of items
+61044200	NAR	number of items
+61044300	NAR	number of items
+61044400	NAR	number of items
+61044900	NAR	number of items
+61045100	NAR	number of items
+61045200	NAR	number of items
+61045300	NAR	number of items
+61045900	NAR	number of items
+61046100	NAR	number of items
+61046200	NAR	number of items
+61046300	NAR	number of items
+61046900	NAR	number of items
+61051000	NAR	number of items
+61052010	NAR	number of items
+61052090	NAR	number of items
+61059010	NAR	number of items
+61059090	NAR	number of items
+61061000	NAR	number of items
+61062000	NAR	number of items
+61069010	NAR	number of items
+61069030	NAR	number of items
+61069050	NAR	number of items
+61069090	NAR	number of items
+61071100	NAR	number of items
+61071200	NAR	number of items
+61071900	NAR	number of items
+61072100	NAR	number of items
+61072200	NAR	number of items
+61072900	NAR	number of items
+61079100	NAR	number of items
+61079900	NAR	number of items
+61081100	NAR	number of items
+61081900	NAR	number of items
+61082100	NAR	number of items
+61082200	NAR	number of items
+61082900	NAR	number of items
+61083100	NAR	number of items
+61083200	NAR	number of items
+61083900	NAR	number of items
+61089100	NAR	number of items
+61089200	NAR	number of items
+61089900	NAR	number of items
+61091000	NAR	number of items
+61099020	NAR	number of items
+61099090	NAR	number of items
+61101110	NAR	number of items
+61101130	NAR	number of items
+61101190	NAR	number of items
+61101210	NAR	number of items
+61101290	NAR	number of items
+61101910	NAR	number of items
+61101990	NAR	number of items
+61102010	NAR	number of items
+61102091	NAR	number of items
+61102099	NAR	number of items
+61103010	NAR	number of items
+61103091	NAR	number of items
+61103099	NAR	number of items
+61109010	NAR	number of items
+61109090	NAR	number of items
+61112010	NPR	number of pairs
+61113010	NPR	number of pairs
+61119011	NPR	number of pairs
+61121100	NAR	number of items
+61121200	NAR	number of items
+61121900	NAR	number of items
+61123110	NAR	number of items
+61123190	NAR	number of items
+61123910	NAR	number of items
+61123990	NAR	number of items
+61124110	NAR	number of items
+61124190	NAR	number of items
+61124910	NAR	number of items
+61124990	NAR	number of items
+61151010	NPR	number of pairs
+61152100	NAR	number of items
+61152200	NAR	number of items
+61152900	NAR	number of items
+61153011	NPR	number of pairs
+61153019	NPR	number of pairs
+61153090	NPR	number of pairs
+61159400	NPR	number of pairs
+61159500	NPR	number of pairs
+61159610	NPR	number of pairs
+61159691	NPR	number of pairs
+61159699	NPR	number of pairs
+61159900	NPR	number of pairs
+61161020	NPR	number of pairs
+61161080	NPR	number of pairs
+61169100	NPR	number of pairs
+61169200	NPR	number of pairs
+61169300	NPR	number of pairs
+61169900	NPR	number of pairs
+62011100	NAR	number of items
+62011210	NAR	number of items
+62011290	NAR	number of items
+62011310	NAR	number of items
+62011390	NAR	number of items
+62011900	NAR	number of items
+62019100	NAR	number of items
+62019200	NAR	number of items
+62019300	NAR	number of items
+62019900	NAR	number of items
+62021100	NAR	number of items
+62021210	NAR	number of items
+62021290	NAR	number of items
+62021310	NAR	number of items
+62021390	NAR	number of items
+62021900	NAR	number of items
+62029100	NAR	number of items
+62029200	NAR	number of items
+62029300	NAR	number of items
+62029900	NAR	number of items
+62031100	NAR	number of items
+62031200	NAR	number of items
+62031910	NAR	number of items
+62031930	NAR	number of items
+62031990	NAR	number of items
+62032210	NAR	number of items
+62032280	NAR	number of items
+62032310	NAR	number of items
+62032380	NAR	number of items
+62032911	NAR	number of items
+62032918	NAR	number of items
+62032930	NAR	number of items
+62032990	NAR	number of items
+62033100	NAR	number of items
+62033210	NAR	number of items
+62033290	NAR	number of items
+62033310	NAR	number of items
+62033390	NAR	number of items
+62033911	NAR	number of items
+62033919	NAR	number of items
+62033990	NAR	number of items
+62034110	NAR	number of items
+62034130	NAR	number of items
+62034190	NAR	number of items
+62034211	NAR	number of items
+62034231	NAR	number of items
+62034233	NAR	number of items
+62034235	NAR	number of items
+62034251	NAR	number of items
+62034259	NAR	number of items
+62034290	NAR	number of items
+62034311	NAR	number of items
+62034319	NAR	number of items
+62034331	NAR	number of items
+62034339	NAR	number of items
+62034390	NAR	number of items
+62034911	NAR	number of items
+62034919	NAR	number of items
+62034931	NAR	number of items
+62034939	NAR	number of items
+62034950	NAR	number of items
+62034990	NAR	number of items
+62041100	NAR	number of items
+62041200	NAR	number of items
+62041300	NAR	number of items
+62041910	NAR	number of items
+62041990	NAR	number of items
+62042100	NAR	number of items
+62042210	NAR	number of items
+62042280	NAR	number of items
+62042310	NAR	number of items
+62042380	NAR	number of items
+62042911	NAR	number of items
+62042918	NAR	number of items
+62042990	NAR	number of items
+62043100	NAR	number of items
+62043210	NAR	number of items
+62043290	NAR	number of items
+62043310	NAR	number of items
+62043390	NAR	number of items
+62043911	NAR	number of items
+62043919	NAR	number of items
+62043990	NAR	number of items
+62044100	NAR	number of items
+62044200	NAR	number of items
+62044300	NAR	number of items
+62044400	NAR	number of items
+62044910	NAR	number of items
+62044990	NAR	number of items
+62045100	NAR	number of items
+62045200	NAR	number of items
+62045300	NAR	number of items
+62045910	NAR	number of items
+62045990	NAR	number of items
+62046110	NAR	number of items
+62046185	NAR	number of items
+62046211	NAR	number of items
+62046231	NAR	number of items
+62046233	NAR	number of items
+62046239	NAR	number of items
+62046251	NAR	number of items
+62046259	NAR	number of items
+62046290	NAR	number of items
+62046311	NAR	number of items
+62046318	NAR	number of items
+62046331	NAR	number of items
+62046339	NAR	number of items
+62046390	NAR	number of items
+62046911	NAR	number of items
+62046918	NAR	number of items
+62046931	NAR	number of items
+62046939	NAR	number of items
+62046950	NAR	number of items
+62046990	NAR	number of items
+62052000	NAR	number of items
+62053000	NAR	number of items
+62059010	NAR	number of items
+62059080	NAR	number of items
+62061000	NAR	number of items
+62062000	NAR	number of items
+62063000	NAR	number of items
+62064000	NAR	number of items
+62069010	NAR	number of items
+62069090	NAR	number of items
+62071100	NAR	number of items
+62071900	NAR	number of items
+62072100	NAR	number of items
+62072200	NAR	number of items
+62072900	NAR	number of items
+62081100	NAR	number of items
+62081900	NAR	number of items
+62082100	NAR	number of items
+62082200	NAR	number of items
+62082900	NAR	number of items
+62102000	NAR	number of items
+62103000	NAR	number of items
+62111100	NAR	number of items
+62111200	NAR	number of items
+62112000	NAR	number of items
+62113231	NAR	number of items
+62113241	NAR	number of items
+62113242	NAR	number of items
+62113331	NAR	number of items
+62113341	NAR	number of items
+62113342	NAR	number of items
+62114231	NAR	number of items
+62114241	NAR	number of items
+62114242	NAR	number of items
+62114331	NAR	number of items
+62114341	NAR	number of items
+62114342	NAR	number of items
+62121010	NAR	number of items
+62121090	NAR	number of items
+62122000	NAR	number of items
+62123000	NAR	number of items
+62132000	NAR	number of items
+62139000	NAR	number of items
+62141000	NAR	number of items
+62142000	NAR	number of items
+62143000	NAR	number of items
+62144000	NAR	number of items
+62149000	NAR	number of items
+62151000	NAR	number of items
+62152000	NAR	number of items
+62159000	NAR	number of items
+62160000	NPR	number of pairs
+63011000	NAR	number of items
+63012010	NAR	number of items
+63012090	NAR	number of items
+63013010	NAR	number of items
+63013090	NAR	number of items
+63014010	NAR	number of items
+63014090	NAR	number of items
+63019010	NAR	number of items
+63019090	NAR	number of items
+63031200	MTK	square meter
+63031900	MTK	square meter
+63039100	MTK	square meter
+63039210	MTK	square meter
+63039290	MTK	square meter
+63039910	MTK	square meter
+63039990	MTK	square meter
+63041100	NAR	number of items
+63041910	NAR	number of items
+63041930	NAR	number of items
+63041990	NAR	number of items
+63042000	NAR	number of items
+63064000	NAR	number of items
+63079093	NAR	number of items
+63079095	NAR	number of items
+64011000	NPR	number of pairs
+64019210	NPR	number of pairs
+64019290	NPR	number of pairs
+64019900	NPR	number of pairs
+64021210	NPR	number of pairs
+64021290	NPR	number of pairs
+64021900	NPR	number of pairs
+64022000	NPR	number of pairs
+64029110	NPR	number of pairs
+64029190	NPR	number of pairs
+64029905	NPR	number of pairs
+64029910	NPR	number of pairs
+64029931	NPR	number of pairs
+64029939	NPR	number of pairs
+64029950	NPR	number of pairs
+64029991	NPR	number of pairs
+64029993	NPR	number of pairs
+64029996	NPR	number of pairs
+64029998	NPR	number of pairs
+64031200	NPR	number of pairs
+64031900	NPR	number of pairs
+64032000	NPR	number of pairs
+64034000	NPR	number of pairs
+64035105	NPR	number of pairs
+64035111	NPR	number of pairs
+64035115	NPR	number of pairs
+64035119	NPR	number of pairs
+64035191	NPR	number of pairs
+64035195	NPR	number of pairs
+64035199	NPR	number of pairs
+64035905	NPR	number of pairs
+64035911	NPR	number of pairs
+64035931	NPR	number of pairs
+64035935	NPR	number of pairs
+64035939	NPR	number of pairs
+64035950	NPR	number of pairs
+64035991	NPR	number of pairs
+64035995	NPR	number of pairs
+64035999	NPR	number of pairs
+64039105	NPR	number of pairs
+64039111	NPR	number of pairs
+64039113	NPR	number of pairs
+64039116	NPR	number of pairs
+64039118	NPR	number of pairs
+64039191	NPR	number of pairs
+64039193	NPR	number of pairs
+64039196	NPR	number of pairs
+64039198	NPR	number of pairs
+64039905	NPR	number of pairs
+64039911	NPR	number of pairs
+64039931	NPR	number of pairs
+64039933	NPR	number of pairs
+64039936	NPR	number of pairs
+64039938	NPR	number of pairs
+64039950	NPR	number of pairs
+64039991	NPR	number of pairs
+64039993	NPR	number of pairs
+64039996	NPR	number of pairs
+64039998	NPR	number of pairs
+64041100	NPR	number of pairs
+64041910	NPR	number of pairs
+64041990	NPR	number of pairs
+64042010	NPR	number of pairs
+64042090	NPR	number of pairs
+64051000	NPR	number of pairs
+64052010	NPR	number of pairs
+64052091	NPR	number of pairs
+64052099	NPR	number of pairs
+64059010	NPR	number of pairs
+64059090	NPR	number of pairs
+64069030	NPR	number of pairs
+65010000	NAR	number of items
+65020000	NAR	number of items
+65040000	NAR	number of items
+65050010	NAR	number of items
+65050030	NAR	number of items
+65061010	NAR	number of items
+65061080	NAR	number of items
+65069100	NAR	number of items
+65069910	NAR	number of items
+65069990	NAR	number of items
+66011000	NAR	number of items
+66019100	NAR	number of items
+66019920	NAR	number of items
+66019990	NAR	number of items
+68071000	MTK	square meter
+68091100	MTK	square meter
+68091900	MTK	square meter
+69041000	NAR	number of items
+69051000	NAR	number of items
+69072100	MTK	square meter
+69072200	MTK	square meter
+69072300	MTK	square meter
+69073000	MTK	square meter
+69074000	MTK	square meter
+70031210	MTK	square meter
+70031291	MTK	square meter
+70031299	MTK	square meter
+70031910	MTK	square meter
+70031990	MTK	square meter
+70032000	MTK	square meter
+70042010	MTK	square meter
+70042091	MTK	square meter
+70042099	MTK	square meter
+70049010	MTK	square meter
+70049080	MTK	square meter
+70051005	MTK	square meter
+70051025	MTK	square meter
+70051030	MTK	square meter
+70051080	MTK	square meter
+70052125	MTK	square meter
+70052130	MTK	square meter
+70052180	MTK	square meter
+70052925	MTK	square meter
+70052935	MTK	square meter
+70052980	MTK	square meter
+70053000	MTK	square meter
+70071910	MTK	square meter
+70071920	MTK	square meter
+70071980	MTK	square meter
+70072900	MTK	square meter
+70080020	MTK	square meter
+70080081	MTK	square meter
+70080089	MTK	square meter
+70091000	NAR	number of items
+70101000	NAR	number of items
+70109010	NAR	number of items
+70109021	NAR	number of items
+70109031	NAR	number of items
+70109041	NAR	number of items
+70109043	NAR	number of items
+70109045	NAR	number of items
+70109047	NAR	number of items
+70109051	NAR	number of items
+70109053	NAR	number of items
+70109055	NAR	number of items
+70109057	NAR	number of items
+70109061	NAR	number of items
+70109067	NAR	number of items
+70109071	NAR	number of items
+70109079	NAR	number of items
+70109091	NAR	number of items
+70109099	NAR	number of items
+70131000	NAR	number of items
+70132210	NAR	number of items
+70132290	NAR	number of items
+70132810	NAR	number of items
+70132890	NAR	number of items
+70133311	NAR	number of items
+70133319	NAR	number of items
+70133391	NAR	number of items
+70133399	NAR	number of items
+70133710	NAR	number of items
+70133751	NAR	number of items
+70133759	NAR	number of items
+70133791	NAR	number of items
+70133799	NAR	number of items
+70134110	NAR	number of items
+70134190	NAR	number of items
+70134200	NAR	number of items
+70134910	NAR	number of items
+70134991	NAR	number of items
+70134999	NAR	number of items
+70139110	NAR	number of items
+70139190	NAR	number of items
+70139900	NAR	number of items
+70169010	MTK	square meter
+71011000	GRM	gram
+71012100	GRM	gram
+71012200	GRM	gram
+71021000	CTM	carats
+71022100	CTM	carats
+71022900	CTM	carats
+71023100	CTM	carats
+71023900	CTM	carats
+71039100	GRM	gram
+71039900	GRM	gram
+71041000	GRM	gram
+71042010	GRM	gram
+71042090	GRM	gram
+71049010	GRM	gram
+71049090	GRM	gram
+71051000	GRM	gram
+71059000	GRM	gram
+71061000	GRM	gram
+71069100	GRM	gram
+71069200	GRM	gram
+71081100	GRM	gram
+71081200	GRM	gram
+71081310	GRM	gram
+71081380	GRM	gram
+71082000	GRM	gram
+71101100	GRM	gram
+71101910	GRM	gram
+71101980	GRM	gram
+71102100	GRM	gram
+71102900	GRM	gram
+71103100	GRM	gram
+71103900	GRM	gram
+71104100	GRM	gram
+71104900	GRM	gram
+71131100	GRM	gram
+71131900	GRM	gram
+71141100	GRM	gram
+71141900	GRM	gram
+71161000	GRM	gram
+71162011	GRM	gram
+71162080	GRM	gram
+71181000	GRM	gram
+71189000	GRM	gram
+73083000	NAR	number of items
+73110011	NAR	number of items
+73110013	NAR	number of items
+73110019	NAR	number of items
+73110030	NAR	number of items
+73211110	NAR	number of items
+73211190	NAR	number of items
+73211200	NAR	number of items
+73211900	NAR	number of items
+73218100	NAR	number of items
+73218200	NAR	number of items
+73218900	NAR	number of items
+73242100	NAR	number of items
+73242900	NAR	number of items
+76101000	NAR	number of items
+76129020	NAR	number of items
+82011000	NAR	number of items
+82015000	NAR	number of items
+82121010	NAR	number of items
+82121090	NAR	number of items
+82122000	MIL	1 000 items
+84013000	GFI	gram of fissile isotopes
+84071000	NAR	number of items
+84072110	NAR	number of items
+84072191	NAR	number of items
+84072199	NAR	number of items
+84072900	NAR	number of items
+84073100	NAR	number of items
+84073210	NAR	number of items
+84073290	NAR	number of items
+84073320	NAR	number of items
+84073380	NAR	number of items
+84073410	NAR	number of items
+84073430	NAR	number of items
+84073491	NAR	number of items
+84073499	NAR	number of items
+84079010	NAR	number of items
+84079050	NAR	number of items
+84079080	NAR	number of items
+84079090	NAR	number of items
+84081011	NAR	number of items
+84081019	NAR	number of items
+84081023	NAR	number of items
+84081027	NAR	number of items
+84081031	NAR	number of items
+84081039	NAR	number of items
+84081041	NAR	number of items
+84081049	NAR	number of items
+84081051	NAR	number of items
+84081059	NAR	number of items
+84081061	NAR	number of items
+84081069	NAR	number of items
+84081071	NAR	number of items
+84081079	NAR	number of items
+84081081	NAR	number of items
+84081089	NAR	number of items
+84081091	NAR	number of items
+84081099	NAR	number of items
+84082010	NAR	number of items
+84082031	NAR	number of items
+84082035	NAR	number of items
+84082037	NAR	number of items
+84082051	NAR	number of items
+84082055	NAR	number of items
+84082057	NAR	number of items
+84082099	NAR	number of items
+84089021	NAR	number of items
+84089027	NAR	number of items
+84089041	NAR	number of items
+84089043	NAR	number of items
+84089045	NAR	number of items
+84089047	NAR	number of items
+84089061	NAR	number of items
+84089065	NAR	number of items
+84089067	NAR	number of items
+84089081	NAR	number of items
+84089085	NAR	number of items
+84089089	NAR	number of items
+84111100	NAR	number of items
+84111210	NAR	number of items
+84111230	NAR	number of items
+84111280	NAR	number of items
+84112100	NAR	number of items
+84112220	NAR	number of items
+84112280	NAR	number of items
+84118100	NAR	number of items
+84118220	NAR	number of items
+84118260	NAR	number of items
+84118280	NAR	number of items
+84121000	NAR	number of items
+84131100	NAR	number of items
+84131900	NAR	number of items
+84132000	NAR	number of items
+84133020	NAR	number of items
+84133080	NAR	number of items
+84134000	NAR	number of items
+84135040	NAR	number of items
+84135061	NAR	number of items
+84135069	NAR	number of items
+84135080	NAR	number of items
+84136031	NAR	number of items
+84136039	NAR	number of items
+84136061	NAR	number of items
+84136069	NAR	number of items
+84136070	NAR	number of items
+84136080	NAR	number of items
+84137021	NAR	number of items
+84137029	NAR	number of items
+84137030	NAR	number of items
+84137035	NAR	number of items
+84137045	NAR	number of items
+84137051	NAR	number of items
+84137059	NAR	number of items
+84137065	NAR	number of items
+84137075	NAR	number of items
+84137081	NAR	number of items
+84137089	NAR	number of items
+84138100	NAR	number of items
+84138200	NAR	number of items
+84141015	NAR	number of items
+84141025	NAR	number of items
+84141081	NAR	number of items
+84141089	NAR	number of items
+84142020	NAR	number of items
+84142080	NAR	number of items
+84143020	NAR	number of items
+84143081	NAR	number of items
+84143089	NAR	number of items
+84144010	NAR	number of items
+84144090	NAR	number of items
+84145100	NAR	number of items
+84145915	NAR	number of items
+84145925	NAR	number of items
+84145935	NAR	number of items
+84145995	NAR	number of items
+84146000	NAR	number of items
+84148011	NAR	number of items
+84148019	NAR	number of items
+84148022	NAR	number of items
+84148028	NAR	number of items
+84148051	NAR	number of items
+84148059	NAR	number of items
+84148073	NAR	number of items
+84148075	NAR	number of items
+84148078	NAR	number of items
+84148080	NAR	number of items
+84161010	NAR	number of items
+84161090	NAR	number of items
+84162010	NAR	number of items
+84162020	NAR	number of items
+84178030	NAR	number of items
+84178050	NAR	number of items
+84181020	NAR	number of items
+84181080	NAR	number of items
+84182110	NAR	number of items
+84182151	NAR	number of items
+84182159	NAR	number of items
+84182191	NAR	number of items
+84182199	NAR	number of items
+84182900	NAR	number of items
+84183020	NAR	number of items
+84183080	NAR	number of items
+84184020	NAR	number of items
+84184080	NAR	number of items
+84185011	NAR	number of items
+84185019	NAR	number of items
+84185090	NAR	number of items
+84211200	NAR	number of items
+84221100	NAR	number of items
+84221900	NAR	number of items
+84231010	NAR	number of items
+84231090	NAR	number of items
+84232010	NAR	number of items
+84232090	NAR	number of items
+84233010	NAR	number of items
+84233090	NAR	number of items
+84238121	NAR	number of items
+84238123	NAR	number of items
+84238125	NAR	number of items
+84238129	NAR	number of items
+84238180	NAR	number of items
+84238220	NAR	number of items
+84238281	NAR	number of items
+84238289	NAR	number of items
+84238920	NAR	number of items
+84238980	NAR	number of items
+84243001	NAR	number of items
+84243008	NAR	number of items
+84244100	NAR	number of items
+84244910	NAR	number of items
+84244990	NAR	number of items
+84251100	NAR	number of items
+84251900	NAR	number of items
+84253100	NAR	number of items
+84253900	NAR	number of items
+84254100	NAR	number of items
+84254200	NAR	number of items
+84254900	NAR	number of items
+84269110	NAR	number of items
+84271010	NAR	number of items
+84271090	NAR	number of items
+84272011	NAR	number of items
+84272019	NAR	number of items
+84272090	NAR	number of items
+84279000	NAR	number of items
+84291100	NAR	number of items
+84291900	NAR	number of items
+84292000	NAR	number of items
+84293000	NAR	number of items
+84294010	NAR	number of items
+84294030	NAR	number of items
+84294090	NAR	number of items
+84295110	NAR	number of items
+84295191	NAR	number of items
+84295199	NAR	number of items
+84295210	NAR	number of items
+84295290	NAR	number of items
+84295900	NAR	number of items
+84301000	NAR	number of items
+84302000	NAR	number of items
+84306100	NAR	number of items
+84321000	NAR	number of items
+84322100	NAR	number of items
+84322910	NAR	number of items
+84322930	NAR	number of items
+84322950	NAR	number of items
+84322990	NAR	number of items
+84323100	NAR	number of items
+84323911	NAR	number of items
+84323919	NAR	number of items
+84323990	NAR	number of items
+84324100	NAR	number of items
+84324200	NAR	number of items
+84331110	NAR	number of items
+84331151	NAR	number of items
+84331159	NAR	number of items
+84331190	NAR	number of items
+84331910	NAR	number of items
+84331951	NAR	number of items
+84331959	NAR	number of items
+84331970	NAR	number of items
+84331990	NAR	number of items
+84332010	NAR	number of items
+84332050	NAR	number of items
+84332090	NAR	number of items
+84333000	NAR	number of items
+84334000	NAR	number of items
+84335100	NAR	number of items
+84335200	NAR	number of items
+84335310	NAR	number of items
+84335330	NAR	number of items
+84335390	NAR	number of items
+84335911	NAR	number of items
+84335919	NAR	number of items
+84335985	NAR	number of items
+84368010	NAR	number of items
+84371000	NAR	number of items
+84423000	NAR	number of items
+84431100	NAR	number of items
+84431200	NAR	number of items
+84431310	NAR	number of items
+84431332	NAR	number of items
+84431334	NAR	number of items
+84431338	NAR	number of items
+84431390	NAR	number of items
+84431400	NAR	number of items
+84431500	NAR	number of items
+84431600	NAR	number of items
+84431700	NAR	number of items
+84431920	NAR	number of items
+84431940	NAR	number of items
+84431970	NAR	number of items
+84433100	NAR	number of items
+84433210	NAR	number of items
+84433280	NAR	number of items
+84433900	NAR	number of items
+84440010	NAR	number of items
+84440090	NAR	number of items
+84451100	NAR	number of items
+84451200	NAR	number of items
+84451300	NAR	number of items
+84451900	NAR	number of items
+84452000	NAR	number of items
+84453000	NAR	number of items
+84454000	NAR	number of items
+84459000	NAR	number of items
+84461000	NAR	number of items
+84462100	NAR	number of items
+84462900	NAR	number of items
+84463000	NAR	number of items
+84471100	NAR	number of items
+84471200	NAR	number of items
+84472020	NAR	number of items
+84472080	NAR	number of items
+84479000	NAR	number of items
+84501111	NAR	number of items
+84501119	NAR	number of items
+84501190	NAR	number of items
+84501200	NAR	number of items
+84501900	NAR	number of items
+84502000	NAR	number of items
+84513000	NAR	number of items
+84521011	NAR	number of items
+84521019	NAR	number of items
+84521090	NAR	number of items
+84522100	NAR	number of items
+84522900	NAR	number of items
+84523000	MIL	1 000 items
+84561110	NAR	number of items
+84561190	NAR	number of items
+84561210	NAR	number of items
+84561290	NAR	number of items
+84562000	NAR	number of items
+84563011	NAR	number of items
+84563019	NAR	number of items
+84563090	NAR	number of items
+84564000	NAR	number of items
+84565000	NAR	number of items
+84569000	NAR	number of items
+84571010	NAR	number of items
+84571090	NAR	number of items
+84572000	NAR	number of items
+84573010	NAR	number of items
+84573090	NAR	number of items
+84581120	NAR	number of items
+84581141	NAR	number of items
+84581149	NAR	number of items
+84581180	NAR	number of items
+84581900	NAR	number of items
+84589120	NAR	number of items
+84589180	NAR	number of items
+84589900	NAR	number of items
+84591000	NAR	number of items
+84592100	NAR	number of items
+84592900	NAR	number of items
+84593100	NAR	number of items
+84593900	NAR	number of items
+84594100	NAR	number of items
+84594900	NAR	number of items
+84595100	NAR	number of items
+84595900	NAR	number of items
+84596110	NAR	number of items
+84596190	NAR	number of items
+84596910	NAR	number of items
+84596990	NAR	number of items
+84597000	NAR	number of items
+84601200	NAR	number of items
+84601900	NAR	number of items
+84602200	NAR	number of items
+84602300	NAR	number of items
+84602400	NAR	number of items
+84602910	NAR	number of items
+84602990	NAR	number of items
+84603100	NAR	number of items
+84603900	NAR	number of items
+84604010	NAR	number of items
+84604090	NAR	number of items
+84609000	NAR	number of items
+84612000	NAR	number of items
+84613010	NAR	number of items
+84613090	NAR	number of items
+84614011	NAR	number of items
+84614019	NAR	number of items
+84614031	NAR	number of items
+84614039	NAR	number of items
+84614071	NAR	number of items
+84614079	NAR	number of items
+84614090	NAR	number of items
+84615011	NAR	number of items
+84615019	NAR	number of items
+84615090	NAR	number of items
+84619000	NAR	number of items
+84621010	NAR	number of items
+84621090	NAR	number of items
+84622110	NAR	number of items
+84622180	NAR	number of items
+84622910	NAR	number of items
+84622991	NAR	number of items
+84622998	NAR	number of items
+84623100	NAR	number of items
+84623910	NAR	number of items
+84623991	NAR	number of items
+84623999	NAR	number of items
+84624110	NAR	number of items
+84624190	NAR	number of items
+84624910	NAR	number of items
+84624990	NAR	number of items
+84629120	NAR	number of items
+84629180	NAR	number of items
+84629920	NAR	number of items
+84629980	NAR	number of items
+84631010	NAR	number of items
+84631090	NAR	number of items
+84632000	NAR	number of items
+84633000	NAR	number of items
+84639000	NAR	number of items
+84641000	NAR	number of items
+84642011	NAR	number of items
+84651010	NAR	number of items
+84651090	NAR	number of items
+84652000	NAR	number of items
+84659110	NAR	number of items
+84659120	NAR	number of items
+84659190	NAR	number of items
+84659200	NAR	number of items
+84659300	NAR	number of items
+84659400	NAR	number of items
+84659500	NAR	number of items
+84659600	NAR	number of items
+84659900	NAR	number of items
+84672110	NAR	number of items
+84672191	NAR	number of items
+84672199	NAR	number of items
+84672210	NAR	number of items
+84672230	NAR	number of items
+84672290	NAR	number of items
+84672920	NAR	number of items
+84672951	NAR	number of items
+84672953	NAR	number of items
+84672959	NAR	number of items
+84672970	NAR	number of items
+84672980	NAR	number of items
+84672985	NAR	number of items
+84678100	NAR	number of items
+84701000	NAR	number of items
+84702100	NAR	number of items
+84702900	NAR	number of items
+84703000	NAR	number of items
+84705000	NAR	number of items
+84709000	NAR	number of items
+84713000	NAR	number of items
+84714100	NAR	number of items
+84714900	NAR	number of items
+84715000	NAR	number of items
+84716060	NAR	number of items
+84716070	NAR	number of items
+84717020	NAR	number of items
+84717030	NAR	number of items
+84717050	NAR	number of items
+84717070	NAR	number of items
+84717080	NAR	number of items
+84717098	NAR	number of items
+84718000	NAR	number of items
+84719000	NAR	number of items
+84721000	NAR	number of items
+84723000	NAR	number of items
+84729010	NAR	number of items
+84762100	NAR	number of items
+84762900	NAR	number of items
+84768100	NAR	number of items
+84768910	NAR	number of items
+84768990	NAR	number of items
+84771000	NAR	number of items
+84772000	NAR	number of items
+84773000	NAR	number of items
+84774000	NAR	number of items
+84775100	NAR	number of items
+84775910	NAR	number of items
+84775980	NAR	number of items
+84778011	NAR	number of items
+84778019	NAR	number of items
+84778091	NAR	number of items
+84778093	NAR	number of items
+84778095	NAR	number of items
+84794000	NAR	number of items
+84871010	NAR	number of items
+84871090	NAR	number of items
+85011010	NAR	number of items
+85011091	NAR	number of items
+85011093	NAR	number of items
+85011099	NAR	number of items
+85012000	NAR	number of items
+85013100	NAR	number of items
+85013200	NAR	number of items
+85013300	NAR	number of items
+85013400	NAR	number of items
+85014020	NAR	number of items
+85014080	NAR	number of items
+85015100	NAR	number of items
+85015220	NAR	number of items
+85015230	NAR	number of items
+85015290	NAR	number of items
+85015350	NAR	number of items
+85015381	NAR	number of items
+85015394	NAR	number of items
+85015399	NAR	number of items
+85016120	NAR	number of items
+85016180	NAR	number of items
+85016200	NAR	number of items
+85016300	NAR	number of items
+85016400	NAR	number of items
+85021120	NAR	number of items
+85021180	NAR	number of items
+85021200	NAR	number of items
+85021320	NAR	number of items
+85021340	NAR	number of items
+85021380	NAR	number of items
+85022020	NAR	number of items
+85022040	NAR	number of items
+85022060	NAR	number of items
+85022080	NAR	number of items
+85023100	NAR	number of items
+85023920	NAR	number of items
+85023980	NAR	number of items
+85024000	NAR	number of items
+85041020	NAR	number of items
+85041080	NAR	number of items
+85042100	NAR	number of items
+85042210	NAR	number of items
+85042290	NAR	number of items
+85042300	NAR	number of items
+85043121	NAR	number of items
+85043129	NAR	number of items
+85043180	NAR	number of items
+85043200	NAR	number of items
+85043300	NAR	number of items
+85043400	NAR	number of items
+85044030	NAR	number of items
+85044055	NAR	number of items
+85061011	NAR	number of items
+85061018	NAR	number of items
+85061091	NAR	number of items
+85061098	NAR	number of items
+85063000	NAR	number of items
+85064000	NAR	number of items
+85065010	NAR	number of items
+85065030	NAR	number of items
+85065090	NAR	number of items
+85066000	NAR	number of items
+85068005	NAR	number of items
+85068080	NAR	number of items
+85071020	NAR	number of items
+85071080	NAR	number of items
+85072020	NCL	number of cells
+85072080	NCL	number of cells
+85073020	NAR	number of items
+85073080	NCL	number of cells
+85074000	NAR	number of items
+85075000	NAR	number of items
+85076000	NAR	number of items
+85078000	NAR	number of items
+85081100	NAR	number of items
+85081900	NAR	number of items
+85086000	NAR	number of items
+85094000	NAR	number of items
+85101000	NAR	number of items
+85102000	NAR	number of items
+85103000	NAR	number of items
+85123010	NAR	number of items
+85141010	NAR	number of items
+85141080	NAR	number of items
+85142010	NAR	number of items
+85142080	NAR	number of items
+85143020	NAR	number of items
+85143080	NAR	number of items
+85144000	NAR	number of items
+85158010	NAR	number of items
+85158090	NAR	number of items
+85161011	NAR	number of items
+85161080	NAR	number of items
+85162100	NAR	number of items
+85162910	NAR	number of items
+85162950	NAR	number of items
+85162991	NAR	number of items
+85162999	NAR	number of items
+85163100	NAR	number of items
+85163300	NAR	number of items
+85164000	NAR	number of items
+85165000	NAR	number of items
+85166010	NAR	number of items
+85166050	NAR	number of items
+85166070	NAR	number of items
+85166080	NAR	number of items
+85166090	NAR	number of items
+85167100	NAR	number of items
+85167200	NAR	number of items
+85167920	NAR	number of items
+85167970	NAR	number of items
+85171100	NAR	number of items
+85171200	NAR	number of items
+85176100	NAR	number of items
+85176910	NAR	number of items
+85176930	NAR	number of items
+85182100	NAR	number of items
+85182200	NAR	number of items
+85182900	NAR	number of items
+85184000	NAR	number of items
+85185000	NAR	number of items
+85192010	NAR	number of items
+85192091	NAR	number of items
+85192099	NAR	number of items
+85193000	NAR	number of items
+85195000	NAR	number of items
+85198100	NAR	number of items
+85198900	NAR	number of items
+85211020	NAR	number of items
+85211095	NAR	number of items
+85219000	NAR	number of items
+85232100	NAR	number of items
+85232915	NAR	number of items
+85232919	NAR	number of items
+85234110	NAR	number of items
+85234130	NAR	number of items
+85234910	NAR	number of items
+85234920	NAR	number of items
+85234990	NAR	number of items
+85235110	NAR	number of items
+85235190	NAR	number of items
+85235200	NAR	number of items
+85235910	NAR	number of items
+85235990	NAR	number of items
+85255000	NAR	number of items
+85256000	NAR	number of items
+85258011	NAR	number of items
+85258019	NAR	number of items
+85258030	NAR	number of items
+85258091	NAR	number of items
+85258099	NAR	number of items
+85269120	NAR	number of items
+85271200	NAR	number of items
+85271300	NAR	number of items
+85271900	NAR	number of items
+85272120	NAR	number of items
+85272152	NAR	number of items
+85272159	NAR	number of items
+85272170	NAR	number of items
+85272192	NAR	number of items
+85272198	NAR	number of items
+85272900	NAR	number of items
+85279100	NAR	number of items
+85279200	NAR	number of items
+85279900	NAR	number of items
+85284200	NAR	number of items
+85284900	NAR	number of items
+85285210	NAR	number of items
+85285291	NAR	number of items
+85285299	NAR	number of items
+85285900	NAR	number of items
+85286200	NAR	number of items
+85286920	NAR	number of items
+85286980	NAR	number of items
+85287111	NAR	number of items
+85287115	NAR	number of items
+85287119	NAR	number of items
+85287191	NAR	number of items
+85287199	NAR	number of items
+85287210	NAR	number of items
+85287220	NAR	number of items
+85287230	NAR	number of items
+85287240	NAR	number of items
+85287260	NAR	number of items
+85287280	NAR	number of items
+85287300	NAR	number of items
+85311030	NAR	number of items
+85311095	NAR	number of items
+85391000	NAR	number of items
+85392130	NAR	number of items
+85392192	NAR	number of items
+85392198	NAR	number of items
+85392210	NAR	number of items
+85392290	NAR	number of items
+85392930	NAR	number of items
+85392992	NAR	number of items
+85392998	NAR	number of items
+85393110	NAR	number of items
+85393190	NAR	number of items
+85393220	NAR	number of items
+85393290	NAR	number of items
+85393920	NAR	number of items
+85393980	NAR	number of items
+85394100	NAR	number of items
+85394900	NAR	number of items
+85395000	NAR	number of items
+85401100	NAR	number of items
+85401200	NAR	number of items
+85402010	NAR	number of items
+85402080	NAR	number of items
+85404000	NAR	number of items
+85406000	NAR	number of items
+85407100	NAR	number of items
+85407900	NAR	number of items
+85408100	NAR	number of items
+85408900	NAR	number of items
+85423231	NAR	number of items
+85423239	NAR	number of items
+85423245	NAR	number of items
+85423255	NAR	number of items
+85423261	NAR	number of items
+85423269	NAR	number of items
+85423275	NAR	number of items
+85437050	NAR	number of items
+85481010	NAR	number of items
+86011000	NAR	number of items
+86012000	NAR	number of items
+86031000	NAR	number of items
+86039000	NAR	number of items
+86040000	NAR	number of items
+86050000	NAR	number of items
+86061000	NAR	number of items
+86063000	NAR	number of items
+86069110	NAR	number of items
+86069180	NAR	number of items
+86069200	NAR	number of items
+86069900	NAR	number of items
+86090010	NAR	number of items
+86090090	NAR	number of items
+87011000	NAR	number of items
+87012010	NAR	number of items
+87012090	NAR	number of items
+87013000	NAR	number of items
+87019110	NAR	number of items
+87019190	NAR	number of items
+87019210	NAR	number of items
+87019290	NAR	number of items
+87019310	NAR	number of items
+87019390	NAR	number of items
+87019410	NAR	number of items
+87019490	NAR	number of items
+87019510	NAR	number of items
+87019590	NAR	number of items
+87021011	NAR	number of items
+87021019	NAR	number of items
+87021091	NAR	number of items
+87021099	NAR	number of items
+87022010	NAR	number of items
+87022090	NAR	number of items
+87023010	NAR	number of items
+87023090	NAR	number of items
+87024000	NAR	number of items
+87029011	NAR	number of items
+87029019	NAR	number of items
+87029031	NAR	number of items
+87029039	NAR	number of items
+87029090	NAR	number of items
+87031011	NAR	number of items
+87031018	NAR	number of items
+87032110	NAR	number of items
+87032190	NAR	number of items
+87032210	NAR	number of items
+87032290	NAR	number of items
+87032311	NAR	number of items
+87032319	NAR	number of items
+87032390	NAR	number of items
+87032410	NAR	number of items
+87032490	NAR	number of items
+87033110	NAR	number of items
+87033190	NAR	number of items
+87033211	NAR	number of items
+87033219	NAR	number of items
+87033290	NAR	number of items
+87033311	NAR	number of items
+87033319	NAR	number of items
+87033390	NAR	number of items
+87034010	NAR	number of items
+87034090	NAR	number of items
+87035000	NAR	number of items
+87036010	NAR	number of items
+87036090	NAR	number of items
+87037000	NAR	number of items
+87038010	NAR	number of items
+87038090	NAR	number of items
+87039000	NAR	number of items
+87041010	NAR	number of items
+87041090	NAR	number of items
+87042110	NAR	number of items
+87042131	NAR	number of items
+87042139	NAR	number of items
+87042191	NAR	number of items
+87042199	NAR	number of items
+87042210	NAR	number of items
+87042291	NAR	number of items
+87042299	NAR	number of items
+87042310	NAR	number of items
+87042391	NAR	number of items
+87042399	NAR	number of items
+87043110	NAR	number of items
+87043131	NAR	number of items
+87043139	NAR	number of items
+87043191	NAR	number of items
+87043199	NAR	number of items
+87043210	NAR	number of items
+87043291	NAR	number of items
+87043299	NAR	number of items
+87049000	NAR	number of items
+87051000	NAR	number of items
+87052000	NAR	number of items
+87053000	NAR	number of items
+87054000	NAR	number of items
+87059030	NAR	number of items
+87059080	NAR	number of items
+87060011	NAR	number of items
+87060019	NAR	number of items
+87060091	NAR	number of items
+87060099	NAR	number of items
+87071010	NAR	number of items
+87071090	NAR	number of items
+87079010	NAR	number of items
+87079090	NAR	number of items
+87082110	NAR	number of items
+87082190	NAR	number of items
+87089510	NAR	number of items
+87091110	NAR	number of items
+87091190	NAR	number of items
+87091910	NAR	number of items
+87091990	NAR	number of items
+87111000	NAR	number of items
+87112010	NAR	number of items
+87112092	NAR	number of items
+87112098	NAR	number of items
+87113010	NAR	number of items
+87113090	NAR	number of items
+87114000	NAR	number of items
+87115000	NAR	number of items
+87116010	NAR	number of items
+87116090	NAR	number of items
+87119000	NAR	number of items
+87120030	NAR	number of items
+87120070	NAR	number of items
+87131000	NAR	number of items
+87139000	NAR	number of items
+87149110	NAR	number of items
+87149130	NAR	number of items
+87149210	NAR	number of items
+87149610	NPR	number of pairs
+87149910	NAR	number of items
+87149930	NAR	number of items
+87150010	NAR	number of items
+87161092	NAR	number of items
+87161098	NAR	number of items
+87162000	NAR	number of items
+87163100	NAR	number of items
+87163910	NAR	number of items
+87163930	NAR	number of items
+87163950	NAR	number of items
+87163980	NAR	number of items
+88010010	NAR	number of items
+88010090	NAR	number of items
+88021100	NAR	number of items
+88021200	NAR	number of items
+88022000	NAR	number of items
+88023000	NAR	number of items
+88024000	NAR	number of items
+88026011	NAR	number of items
+88026019	NAR	number of items
+88026090	NAR	number of items
+89011010	NAR	number of items
+89011090	NAR	number of items
+89012010	NAR	number of items
+89012090	CCT	carrying capacity in tonnes
+89013010	NAR	number of items
+89013090	CCT	carrying capacity in tonnes
+89019010	NAR	number of items
+89019090	CCT	carrying capacity in tonnes
+89020010	NAR	number of items
+89020090	NAR	number of items
+89031010	NAR	number of items
+89031090	NAR	number of items
+89039110	NAR	number of items
+89039190	NAR	number of items
+89039210	NAR	number of items
+89039291	NAR	number of items
+89039299	NAR	number of items
+89039910	NAR	number of items
+89039991	NAR	number of items
+89039999	NAR	number of items
+89040010	NAR	number of items
+89040091	NAR	number of items
+89051010	NAR	number of items
+89051090	NAR	number of items
+89052000	NAR	number of items
+89059010	NAR	number of items
+89059090	NAR	number of items
+89061000	NAR	number of items
+89069010	NAR	number of items
+89069091	NAR	number of items
+89069099	NAR	number of items
+89071000	NAR	number of items
+89079000	NAR	number of items
+90013000	NAR	number of items
+90014020	NAR	number of items
+90014041	NAR	number of items
+90014049	NAR	number of items
+90014080	NAR	number of items
+90015020	NAR	number of items
+90015041	NAR	number of items
+90015049	NAR	number of items
+90015080	NAR	number of items
+90021100	NAR	number of items
+90021900	NAR	number of items
+90022000	NAR	number of items
+90031100	NAR	number of items
+90031900	NAR	number of items
+90041010	NAR	number of items
+90041091	NAR	number of items
+90041099	NAR	number of items
+90051000	NAR	number of items
+90063000	NAR	number of items
+90064000	NAR	number of items
+90065100	NAR	number of items
+90065200	NAR	number of items
+90065310	NAR	number of items
+90065380	NAR	number of items
+90065900	NAR	number of items
+90066100	NAR	number of items
+90066900	NAR	number of items
+90071000	NAR	number of items
+90072000	NAR	number of items
+90085000	NAR	number of items
+90111000	NAR	number of items
+90112010	NAR	number of items
+90112090	NAR	number of items
+90118000	NAR	number of items
+90142020	NAR	number of items
+90160010	NAR	number of items
+90171010	NAR	number of items
+90171090	NAR	number of items
+90172005	NAR	number of items
+90172039	NAR	number of items
+90172090	NAR	number of items
+90173000	NAR	number of items
+90192010	NAR	number of items
+90192020	NAR	number of items
+90200010	NAR	number of items
+90212110	CEN	100 items
+90212190	CEN	100 items
+90214000	NAR	number of items
+90215000	NAR	number of items
+90221200	NAR	number of items
+90221300	NAR	number of items
+90221400	NAR	number of items
+90221900	NAR	number of items
+90222100	NAR	number of items
+90222900	NAR	number of items
+90223000	NAR	number of items
+90251120	NAR	number of items
+90251180	NAR	number of items
+90251900	NAR	number of items
+90258020	NAR	number of items
+90261021	NAR	number of items
+90261029	NAR	number of items
+90261081	NAR	number of items
+90261089	NAR	number of items
+90262020	NAR	number of items
+90262040	NAR	number of items
+90262080	NAR	number of items
+90271010	NAR	number of items
+90271090	NAR	number of items
+90281000	NAR	number of items
+90282000	NAR	number of items
+90283011	NAR	number of items
+90283019	NAR	number of items
+90283090	NAR	number of items
+90314910	NAR	number of items
+90321020	NAR	number of items
+90321080	NAR	number of items
+90322000	NAR	number of items
+91011100	NAR	number of items
+91011900	NAR	number of items
+91012100	NAR	number of items
+91012900	NAR	number of items
+91019100	NAR	number of items
+91019900	NAR	number of items
+91021100	NAR	number of items
+91021200	NAR	number of items
+91021900	NAR	number of items
+91022100	NAR	number of items
+91022900	NAR	number of items
+91029100	NAR	number of items
+91029900	NAR	number of items
+91031000	NAR	number of items
+91039000	NAR	number of items
+91040000	NAR	number of items
+91051100	NAR	number of items
+91051900	NAR	number of items
+91052100	NAR	number of items
+91052900	NAR	number of items
+91059100	NAR	number of items
+91059900	NAR	number of items
+91061000	NAR	number of items
+91069000	NAR	number of items
+91070000	NAR	number of items
+91081100	NAR	number of items
+91081200	NAR	number of items
+91081900	NAR	number of items
+91082000	NAR	number of items
+91089000	NAR	number of items
+91091000	NAR	number of items
+91099000	NAR	number of items
+91101110	NAR	number of items
+91101190	NAR	number of items
+91111000	NAR	number of items
+91112000	NAR	number of items
+91118000	NAR	number of items
+91122000	NAR	number of items
+92011010	NAR	number of items
+92011090	NAR	number of items
+92012000	NAR	number of items
+92021010	NAR	number of items
+92021090	NAR	number of items
+92029030	NAR	number of items
+92029080	NAR	number of items
+92051000	NAR	number of items
+92059010	NAR	number of items
+92059030	NAR	number of items
+92071010	NAR	number of items
+92071030	NAR	number of items
+92071050	NAR	number of items
+92079010	NAR	number of items
+93011000	NAR	number of items
+93012000	NAR	number of items
+93019000	NAR	number of items
+93020000	NAR	number of items
+93031000	NAR	number of items
+93032010	NAR	number of items
+93032095	NAR	number of items
+93033000	NAR	number of items
+93039000	NAR	number of items
+93040000	NAR	number of items
+93062100	MIL	1 000 items
+94043000	NAR	number of items
+95043010	NAR	number of items
+95043020	NAR	number of items
+95061110	NPR	number of pairs
+95061121	NAR	number of items
+95061129	NPR	number of pairs
+95061180	NPR	number of pairs
+95063100	NAR	number of items
+95063200	NAR	number of items
+95067010	NPR	number of pairs
+95067030	NPR	number of pairs
+96031000	NAR	number of items
+96032100	NAR	number of items
+96032930	NAR	number of items
+96033010	NAR	number of items
+96033090	NAR	number of items
+96034010	NAR	number of items
+96034090	NAR	number of items
+96039010	NAR	number of items
+96071100	MTR	meter
+96071900	MTR	meter
+96081010	NAR	number of items
+96081092	NAR	number of items
+96081099	NAR	number of items
+96082000	NAR	number of items
+96083000	NAR	number of items
+96084000	NAR	number of items
+96086000	NAR	number of items
+96131000	NAR	number of items
+96132000	NAR	number of items
